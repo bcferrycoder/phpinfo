@@ -1,3 +1,4 @@
 applications:
 - name: phpinfo
+  buildpack: https://github.com/cloudfoundry/php-buildpack
   mem: 64M
