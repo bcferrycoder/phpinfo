@@ -1,4 +1,4 @@
 applications:
 - name: phpinfo
-  host: pcfdemo-${random-word}
+  host: phpinfo-${random-word}
   mem: 64M
